@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @rafaeldsx
 - 👀 I’m interested in ...video games, technology and make projects to my professional growing up.
-- 🌱 I’m currently learning ... C language and Pseudocode.
+- 🌱 I’m currently learning ... C language, Python, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ... begginers projects to my knowloge.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
